@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "axios": "^1.6.8",
+    "bn.js": "^5.2.1",
+    "loom-js": "^1.90.0",
+    "loom-truffle-provider": "^0.13.0",
+    "openzeppelin-solidity": "^3.4.2",
+    "truffle": "^5.11.5"
+  }
+}
